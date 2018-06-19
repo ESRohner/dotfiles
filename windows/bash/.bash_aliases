@@ -35,5 +35,6 @@ alias rmvirtualenv='/c/Python27/scripts/rmvirtualenv.bat'
 alias workon='/c/Python27/scripts/workon.bat'
 alias deactivate='/c/Python27/scripts/deactivate.bat'
 alias python3='/c/Python36/python.exe'
+alias python2='/c/Python27/python.exe'
 
 alias subl="/c/Program\ Files/Sublime\ Text\ 3/subl.exe"
